@@ -1,0 +1,5 @@
+C:\Users\UCSE\Desktop\Recuperatorio\Entidades\bin\Debug\Entidades.dll
+C:\Users\UCSE\Desktop\Recuperatorio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\UCSE\Desktop\Recuperatorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Desktop\Recuperatorio\Entidades\obj\Debug\Entidades.dll
+C:\Users\UCSE\Desktop\Recuperatorio\Entidades\obj\Debug\Entidades.pdb
